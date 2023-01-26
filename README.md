@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `DEMO`
-[React Calculator](https://63d208680da9e1000946271c--velvety-bonbon-76d6a7.netlify.app/)
+[React Calculator](https://velvety-bonbon-76d6a7.netlify.app/)
 
 ### `npm start`
 
